@@ -13,10 +13,10 @@
 如已安装其他种类的面板，或 LNMP 之类的运行环境、一键包，建议备份好数据，重装干净系统再安装
 
 使用方法
-wget --no-check-certificate -qO crack_bt_panel_pro.sh https://git.io/JvkjT && bash crack_bt_panel_pro.sh
+wget --no-check-certificate -qO crack_bt_panel_pro.sh https://git.io/JvjBv && bash crack_bt_panel_pro.sh
 
 卸载
-wget --no-check-certificate -qO uninstall.sh https://git.io/JvkjI && bash uninstall.sh
+wget --no-check-certificate -qO uninstall.sh https://git.io/JvjBv && bash uninstall.sh
 
 
 更新日志
